@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">SemiFinalGutib</string>
-    <string name="enter_tweet_description">Enter Tweet Description</string>
-    <string name="create_tweet">Create Tweet</string>
-    <string name="enter_your_name">Enter Your Name</string>
-    <string name="read_specific_tweet">Read Specific Tweet</string>
-    <string name="enter_tweet_id">Enter Tweet ID</string>
-    <string name="read_all_tweets">Read All Tweets</string>
-</resources>
